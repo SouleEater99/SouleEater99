@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔐 **Cyber Security Researcher** | **Low-Level Systems Engineer**  
 💻 Software Engineering Student @ 1337 (42 Network)  
-🚀 **5+ Years Freelance Experience** in many domain 
+🚀 **5+ Years Freelance Experience** in many domain  
 📈 **Algorithmic Trading & Automation Specialist**  
 
 *Building performant systems with C/C++ while hardening them against modern threats*
