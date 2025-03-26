@@ -4,7 +4,6 @@
 🚀 **5+ Years Freelance Experience** in many domain  
 📈 **Algorithmic Trading & Automation Specialist**  
 
-*Building performant systems with C/C++ while hardening them against modern threats*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelali-el-maimouni)
