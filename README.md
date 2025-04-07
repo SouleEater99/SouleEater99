@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🔐 **Cybersecurity enthusiast** | **Low-Level Systems Engineer**  
+🔐 **Cybersecurity enthusiast** | **Low-Level Systems Engineer**     
 💻 Software Engineering Student @ 1337 (42 Network)  
 🚀 **5+ Years Freelance Experience** in many domain  
 📈 **Algorithmic Trading & Automation Specialist**  
